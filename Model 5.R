@@ -190,6 +190,9 @@ D = dist(t(M), method = "binary")
 #
  plot(mdsT[,1], mdsT[,2], col = colours, pch=16,
       main = " MDS TFIDF weighted T Binary Distance")
+
+                hrjkhjkdfhgjkhjg
+                
  
  
  
